@@ -26,3 +26,6 @@ After the compilation is done, you should see a compile binary called "lightbend
 There is an example in "examples" folder. Try
 
 > cd examples; ../build/lightbender turing.r turing.obj
+
+# Additional Info
+https://paper.dropbox.com/doc/Light-Bender-HD-ColorfulMulti-view-Laser-Engraving-image--BI2el6CiyYvBc2SwETPTyxEQAQ-BPJxEO3WvDkP52kkImGNu
