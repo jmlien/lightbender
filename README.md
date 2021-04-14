@@ -10,7 +10,7 @@ The input parameters of the lightbender program include
 3. the filename of the output OBJ file
 
 
-# to compile this code on OSX
+# Compile lightbender on OSX
 
 You will need to install glm, glew, glfw3
 
@@ -22,7 +22,7 @@ Then use cmake and make
 After the compilation is done, you should see a compile binary called "lightbender" in the build folder
 
 
-# to run this code on OSX
+# Run lightbender
 There is an example in "examples" folder. Try
 
 > cd examples; ../build/lightbender turing.r turing.obj
